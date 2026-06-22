@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi ðŸ‘‹! My name is ... and I'm a ..., from ....</h2>
+<h2 data-importer="text" align="left">Hi ‹! My name is Tathya Shah, and I'm a CS & DS honors graduate from Rutgers University</h2>
 
 ###
 
