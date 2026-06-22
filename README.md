@@ -2,7 +2,7 @@
   <tr>
     <td width="70%" valign="top">
       <h3>About Me</h3>
-      <p>I am a CS & DS honors graduate from Rutgers University with a passion for building high-velocity production systems.</p>
+      <p>I am a CS & DS honors graduate from Rutgers University with a passion for building high-velocity production systems. I identify as a builder at heart—I thrive in environments where technical grit and creative problem-solving are the primary currency. My work is driven by the desire to bridge the gap between complex theoretical research and real-world, scalable software solutions.</p>
     </td>
     <td width="30%" align="center">
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FrMjVvZzkxanJvN2U0dGxhYTEzdDRqdnVjYnpvcDZ2ajM3bmFwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JvlJSmxmKSXyE/giphy.gif" width="150" />
