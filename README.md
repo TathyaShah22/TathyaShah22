@@ -19,8 +19,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FrMjVvZzkxanJvN2U0dGxhYTEzdDRqdnVjYnpvcDZ2ajM3bmFwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JvlJSmxmKSXyE/giphy.gif" />
-
 ###
 
 <p align="left">Programming Languages</p>
