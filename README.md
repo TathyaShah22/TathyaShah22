@@ -1,4 +1,14 @@
-<h2 align="left">Hi! My name is Tathya Shah, and I'm a CS & DS honors graduate from Rutgers University</h2>
+<table width="100%">
+  <tr>
+    <td width="70%" valign="top">
+      <h3>About Me</h3>
+      <p>I am a CS & DS honors graduate from Rutgers University with a passion for building high-velocity production systems.</p>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FrMjVvZzkxanJvN2U0dGxhYTEzdDRqdnVjYnpvcDZ2ajM3bmFwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JvlJSmxmKSXyE/giphy.gif" width="150" />
+    </td>
+  </tr>
+</table>
 
 ###
 
