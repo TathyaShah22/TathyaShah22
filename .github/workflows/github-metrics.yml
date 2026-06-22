@@ -13,3 +13,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           output_action: commit
           committer_branch: stats-output
+          # Use base plugin for general stats
+          base: header, activity, community, repositories, metadata
